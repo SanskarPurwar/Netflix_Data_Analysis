@@ -49,7 +49,7 @@ This query lists all movies released in the year 2020.
 SELECT title FROM netflix WHERE release_year = 2020 AND type = 'Movie';
 ```
 
-### 4. 4. Top 5 Countries with Most Content
+### 4. Top 5 Countries with Most Content
 Using a recursive CTE, this query lists the top 5 countries with the most content available on Netflix.
 
 ```sql
