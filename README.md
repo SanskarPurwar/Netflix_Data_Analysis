@@ -14,7 +14,7 @@ The main goals of this project are:
 ### Data Source
 
 The data used for this analysis is sourced from the following Kaggle dataset:  
-[Netflix Shows and Movies Exploratory Analysis by Shivam Bansal](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
+[Netflix Shows and Movies Exploratory Analysis by Shivam Bansal](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 The dataset is stored in a table called `netflix` and includes columns such as `title`, `type`, `country`, `release_year`, `rating`, `director`, `casts`, `listed_in`, `duration`, and `date_added`.
 
